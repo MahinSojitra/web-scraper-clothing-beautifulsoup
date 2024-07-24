@@ -1,7 +1,7 @@
 # web-scraper-clothing-beautifulsoup
 This repository provides Python code to scrape clothing product information from Amazon using the Beautiful Soup library.
 <br>
-<h4>Features</h4>
+<h3>Features</h3>
 <ul>
     <li>Extracts product details like title, price, brand, and description.</li>
     <li>Option to target specific categories (e.g., men's shirts, women's dresses).</li>
@@ -10,7 +10,7 @@ This repository provides Python code to scrape clothing product information from
     <li>Saves scraped data in a user-friendly format (e.g., CSV, JSON).</li>
 </ul>
 
-<h4>Requirements</h4>
+<h3>Requirements</h3>
 <ul>
     <li>Python 3.x</li>
     <li>Libraries:</li>
